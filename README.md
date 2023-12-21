@@ -45,8 +45,8 @@ Visit http://localhost:3000 in your web browser to view the App.
 
 The project follows the typical structure of a React application. Key directories and files include:
 
-   * **images**: Include the images used in the project.
    * **public**: Static files and the offline.html file.
+        * **images**: Include the images used in the project.
    * **src**: Contains the source code of the application.
         * **components**: React components used in the app.
         * **API** Include the file to fetch data from the Weather API.
