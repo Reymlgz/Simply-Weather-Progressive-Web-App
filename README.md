@@ -31,15 +31,6 @@ cd swpwa
 npm install
 ```
 
-# Usage
-
-To launch the project, use the following command:
-
-```
-npm start
-```
-
-Visit http://localhost:3000 in your web browser to view the App.
 
 # Project Structure
 
@@ -50,8 +41,19 @@ The project follows the typical structure of a React application. Key directorie
    * **src**: Contains the source code of the application.
         * **components**: React components used in the app.
         * **API** Include the file to fetch data from the Weather API.
+            *  Create a new account on https://api.openweathermap.org, generate an **APY_KEY** and paste it on the **API_KEY** section before start the app. 
         * **styles**: CSS stylesheets.
         * **App.js**: Main component.
+    
+# Usage
+
+To launch the project, use the following command:
+
+```
+npm start
+```
+
+Visit http://localhost:3000 in your web browser to view the App.
 
 # Service Worker
 
