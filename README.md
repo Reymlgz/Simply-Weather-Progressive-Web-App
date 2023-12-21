@@ -83,4 +83,4 @@ A Progressive Web App (PWA) is a type of application software delivered through 
 
 # More Info
 
-If you want to know more about **PWA** visit https://web.dev/articles/what-are-pwas for more info. 
+If you want to know more about **PWAs** visit https://web.dev/articles/what-are-pwas for more info. 
