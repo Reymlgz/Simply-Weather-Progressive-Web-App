@@ -40,8 +40,8 @@ The project follows the typical structure of a React application. Key directorie
         * **images**: Include the images used in the project.
    * **src**: Contains the source code of the application.
         * **components**: React components used in the app.
-        * **API** Include the file to fetch data from the Weather API.
-            *  Create a new account on https://api.openweathermap.org, generate an **APY_KEY** and paste it on the **API_KEY** section before start the app. 
+        * **API**: Include the file to fetch data from the Weather API.
+            *  Create a new account on https://api.openweathermap.org, generate an **API_KEY** and paste it on the **API_KEY** section in the *fetchWearher.js* file. 
         * **styles**: CSS stylesheets.
         * **App.js**: Main component.
     
