@@ -22,7 +22,7 @@ git clone https://github.com/your-username/Simply-Weather-Progressive-Web-App.gi
 ### 2. Change to the project directory:
 
 ```
-cd swpwa
+cd Simply-Weather-Progressive-Web-App
 ```
 
 ### 3. Install dependencies:
